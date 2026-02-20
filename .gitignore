@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build artifacts
+/build/
+/dist/
+*.exe
+
+# Data files
+*.xlsx
+*.XLSX
+*.xls
+*.log
+
+# Config with secrets (use config.example.json as template)
+config.json
+
+# Logs
+logs/
+
+# IDE
+.claude/
+.vscode/
+
+# Misc
+nul
